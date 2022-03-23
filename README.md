@@ -1,2 +1,4 @@
-# desafiodeprojeto1-bootcamp
-Desafio de Projeto - Criação de repositório no GitHub
+# Bootcamp Philips Fullstack Developer
+Primeiro Desafio de Projeto - Criação de repositório no GitHub 💻
+
+Curso: Lógica de Programação Essencial - exercícios
